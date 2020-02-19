@@ -1,0 +1,19 @@
+{
+  "name": "3daudiospectrumstream",
+  "version": "1.0.0",
+  "description": "3daudiospectrumstream",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.htl-klu.at/5440121001/3daudiospectrumstream"
+  },
+  "author": "Alexander Pichler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
